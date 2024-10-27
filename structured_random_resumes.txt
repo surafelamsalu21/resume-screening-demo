@@ -1,0 +1,389 @@
+Name: Avery Johnson
+    Gender: Not Female
+    Descent: American
+    Degree: Economics Degree
+    Job Title: Financial Analyst at Apple
+    Years of Experience: 6
+    Key Skills: Leadership, Project Management, Strategic Planning
+    Leadership Experience: Yes
+    Extraprofessional Work: Yes
+    Analytical Skills: No
+    Communication Skills: Yes
+    Fit Score: High Fit
+
+Name: Avery Jones
+    Gender: Not Female
+    Descent: Asian
+    Degree: Finance Degree
+    Job Title: Account Manager at Facebook
+    Years of Experience: 2
+    Key Skills: Strategic Planning, Teamwork
+    Leadership Experience: Yes
+    Extraprofessional Work: Yes
+    Analytical Skills: Yes
+    Communication Skills: No
+    Fit Score: Low Fit
+
+Name: Casey Johnson
+    Gender: Not Female
+    Descent: African
+    Degree: Finance Degree
+    Job Title: Business Analyst at Google
+    Years of Experience: 12
+    Key Skills: Data Analysis, Communication
+    Leadership Experience: Yes
+    Extraprofessional Work: No
+    Analytical Skills: Yes
+    Communication Skills: No
+    Fit Score: High Fit
+
+Name: Riley Miller
+    Gender: Not Female
+    Descent: African
+    Degree: Finance Degree
+    Job Title: Marketing Specialist at Google
+    Years of Experience: 15
+    Key Skills: Strategic Planning, Project Management, Teamwork, Communication
+    Leadership Experience: Yes
+    Extraprofessional Work: No
+    Analytical Skills: Yes
+    Communication Skills: Yes
+    Fit Score: Low Fit
+
+Name: Alex Miller
+    Gender: Not Female
+    Descent: African
+    Degree: Finance Degree
+    Job Title: HR Specialist at Apple
+    Years of Experience: 5
+    Key Skills: Teamwork, Financial Modeling, Data Analysis, Communication, Strategic Planning
+    Leadership Experience: No
+    Extraprofessional Work: Yes
+    Analytical Skills: Yes
+    Communication Skills: No
+    Fit Score: High Fit
+
+Name: Jamie Johnson
+    Gender: Not Female
+    Descent: African
+    Degree: Finance Degree
+    Job Title: HR Specialist at Facebook
+    Years of Experience: 13
+    Key Skills: Communication, Project Management, Teamwork
+    Leadership Experience: Yes
+    Extraprofessional Work: Yes
+    Analytical Skills: Yes
+    Communication Skills: Yes
+    Fit Score: Low Fit
+
+Name: Dakota Martinez
+    Gender: Female
+    Descent: American
+    Degree: Master's in Finance
+    Job Title: Consultant at JP Morgan
+    Years of Experience: 6
+    Key Skills: Project Management, Leadership, Financial Modeling
+    Leadership Experience: Yes
+    Extraprofessional Work: Yes
+    Analytical Skills: Yes
+    Communication Skills: Yes
+    Fit Score: High Fit
+
+Name: Cameron Hernandez
+    Gender: Female
+    Descent: American
+    Degree: Finance Degree
+    Job Title: Software Engineer at Apple
+    Years of Experience: 11
+    Key Skills: Leadership, Project Management
+    Leadership Experience: No
+    Extraprofessional Work: No
+    Analytical Skills: No
+    Communication Skills: No
+    Fit Score: Low Fit
+
+Name: Jordan Hernandez
+    Gender: Female
+    Descent: American
+    Degree: Finance Degree
+    Job Title: Business Analyst at PwC
+    Years of Experience: 7
+    Key Skills: Communication, Data Analysis, Teamwork, Financial Modeling, Project Management
+    Leadership Experience: Yes
+    Extraprofessional Work: Yes
+    Analytical Skills: Yes
+    Communication Skills: Yes
+    Fit Score: High Fit
+
+Name: Taylor Rodriguez
+    Gender: Not Female
+    Descent: African
+    Degree: Bachelor's in Computer Science
+    Job Title: Business Analyst at Deloitte
+    Years of Experience: 1
+    Key Skills: Strategic Planning, Data Analysis, Financial Modeling, Communication
+    Leadership Experience: No
+    Extraprofessional Work: No
+    Analytical Skills: Yes
+    Communication Skills: Yes
+    Fit Score: Low Fit
+
+Name: Taylor Brown
+    Gender: Female
+    Descent: Asian
+    Degree: Finance Degree
+    Job Title: Business Analyst at Facebook
+    Years of Experience: 11
+    Key Skills: Financial Modeling, Teamwork, Strategic Planning
+    Leadership Experience: Yes
+    Extraprofessional Work: No
+    Analytical Skills: No
+    Communication Skills: Yes
+    Fit Score: Low Fit
+
+Name: Alex Martinez
+    Gender: Not Female
+    Descent: African
+    Degree: CFA Certification
+    Job Title: Financial Analyst at Apple
+    Years of Experience: 2
+    Key Skills: Teamwork, Financial Modeling
+    Leadership Experience: No
+    Extraprofessional Work: Yes
+    Analytical Skills: No
+    Communication Skills: No
+    Fit Score: High Fit
+
+Name: Riley Brown
+    Gender: Not Female
+    Descent: African
+    Degree: Bachelor's in Marketing
+    Job Title: Product Manager at PwC
+    Years of Experience: 14
+    Key Skills: Communication, Leadership, Project Management
+    Leadership Experience: Yes
+    Extraprofessional Work: No
+    Analytical Skills: Yes
+    Communication Skills: Yes
+    Fit Score: Low Fit
+
+Name: Cameron Williams
+    Gender: Female
+    Descent: Asian
+    Degree: Bachelor's in Marketing
+    Job Title: Account Manager at Facebook
+    Years of Experience: 10
+    Key Skills: Strategic Planning, Project Management
+    Leadership Experience: Yes
+    Extraprofessional Work: No
+    Analytical Skills: No
+    Communication Skills: Yes
+    Fit Score: High Fit
+
+Name: Riley Martinez
+    Gender: Not Female
+    Descent: American
+    Degree: Finance Degree
+    Job Title: Software Engineer at Apple
+    Years of Experience: 15
+    Key Skills: Communication, Teamwork, Project Management, Data Analysis, Leadership
+    Leadership Experience: Yes
+    Extraprofessional Work: Yes
+    Analytical Skills: Yes
+    Communication Skills: No
+    Fit Score: Low Fit
+
+Name: Jordan Johnson
+    Gender: Female
+    Descent: European
+    Degree: MBA
+    Job Title: Investment Banker at Facebook
+    Years of Experience: 2
+    Key Skills: Communication, Teamwork, Project Management
+    Leadership Experience: No
+    Extraprofessional Work: Yes
+    Analytical Skills: No
+    Communication Skills: Yes
+    Fit Score: High Fit
+
+Name: Dakota Brown
+    Gender: Female
+    Descent: American
+    Degree: Finance Degree
+    Job Title: Business Analyst at Google
+    Years of Experience: 1
+    Key Skills: Strategic Planning, Data Analysis, Leadership, Financial Modeling, Project Management
+    Leadership Experience: Yes
+    Extraprofessional Work: Yes
+    Analytical Skills: Yes
+    Communication Skills: Yes
+    Fit Score: Low Fit
+
+Name: Dakota Williams
+    Gender: Not Female
+    Descent: American
+    Degree: Finance Degree
+    Job Title: Financial Analyst at PwC
+    Years of Experience: 8
+    Key Skills: Communication, Strategic Planning, Financial Modeling, Leadership, Teamwork
+    Leadership Experience: No
+    Extraprofessional Work: No
+    Analytical Skills: No
+    Communication Skills: Yes
+    Fit Score: Low Fit
+
+Name: Avery Miller
+    Gender: Not Female
+    Descent: Asian
+    Degree: Finance Degree
+    Job Title: Product Manager at Microsoft
+    Years of Experience: 10
+    Key Skills: Teamwork, Communication, Data Analysis, Financial Modeling
+    Leadership Experience: No
+    Extraprofessional Work: No
+    Analytical Skills: Yes
+    Communication Skills: No
+    Fit Score: Low Fit
+
+Name: Taylor Martinez
+    Gender: Not Female
+    Descent: African
+    Degree: MBA
+    Job Title: Account Manager at Deloitte
+    Years of Experience: 8
+    Key Skills: Strategic Planning, Financial Modeling
+    Leadership Experience: Yes
+    Extraprofessional Work: No
+    Analytical Skills: Yes
+    Communication Skills: No
+    Fit Score: Low Fit
+
+Name: Avery Garcia
+    Gender: Female
+    Descent: European
+    Degree: Finance Degree
+    Job Title: Data Scientist at Amazon
+    Years of Experience: 4
+    Key Skills: Communication, Teamwork
+    Leadership Experience: Yes
+    Extraprofessional Work: No
+    Analytical Skills: Yes
+    Communication Skills: No
+    Fit Score: Low Fit
+
+Name: Alex Garcia
+    Gender: Female
+    Descent: Asian
+    Degree: Finance Degree
+    Job Title: Product Manager at Amazon
+    Years of Experience: 10
+    Key Skills: Leadership, Project Management
+    Leadership Experience: No
+    Extraprofessional Work: No
+    Analytical Skills: No
+    Communication Skills: Yes
+    Fit Score: High Fit
+
+Name: Riley Jones
+    Gender: Female
+    Descent: African
+    Degree: Diploma in Human Resources
+    Job Title: Product Manager at Amazon
+    Years of Experience: 7
+    Key Skills: Project Management, Financial Modeling, Strategic Planning
+    Leadership Experience: No
+    Extraprofessional Work: Yes
+    Analytical Skills: No
+    Communication Skills: Yes
+    Fit Score: High Fit
+
+Name: Dakota Miller
+    Gender: Female
+    Descent: Asian
+    Degree: Finance Degree
+    Job Title: Marketing Specialist at Amazon
+    Years of Experience: 11
+    Key Skills: Project Management, Teamwork, Financial Modeling
+    Leadership Experience: Yes
+    Extraprofessional Work: No
+    Analytical Skills: No
+    Communication Skills: No
+    Fit Score: Low Fit
+
+Name: Cameron Garcia
+    Gender: Not Female
+    Descent: African
+    Degree: Bachelor's in Marketing
+    Job Title: Account Manager at Deloitte
+    Years of Experience: 15
+    Key Skills: Project Management, Leadership, Data Analysis
+    Leadership Experience: Yes
+    Extraprofessional Work: Yes
+    Analytical Skills: No
+    Communication Skills: Yes
+    Fit Score: Low Fit
+
+Name: Riley Johnson
+    Gender: Not Female
+    Descent: African
+    Degree: Finance Degree
+    Job Title: HR Specialist at Facebook
+    Years of Experience: 14
+    Key Skills: Project Management, Financial Modeling
+    Leadership Experience: No
+    Extraprofessional Work: No
+    Analytical Skills: Yes
+    Communication Skills: Yes
+    Fit Score: High Fit
+
+Name: Dakota Rodriguez
+    Gender: Not Female
+    Descent: European
+    Degree: Finance Degree
+    Job Title: Product Manager at Google
+    Years of Experience: 1
+    Key Skills: Teamwork, Leadership
+    Leadership Experience: Yes
+    Extraprofessional Work: No
+    Analytical Skills: No
+    Communication Skills: No
+    Fit Score: Low Fit
+
+Name: Cameron Rodriguez
+    Gender: Not Female
+    Descent: African
+    Degree: Master's in Finance
+    Job Title: Investment Banker at PwC
+    Years of Experience: 9
+    Key Skills: Data Analysis, Teamwork, Project Management, Strategic Planning, Financial Modeling
+    Leadership Experience: No
+    Extraprofessional Work: Yes
+    Analytical Skills: No
+    Communication Skills: Yes
+    Fit Score: High Fit
+
+Name: Riley Johnson
+    Gender: Female
+    Descent: European
+    Degree: Finance Degree
+    Job Title: Business Analyst at Apple
+    Years of Experience: 8
+    Key Skills: Data Analysis, Financial Modeling, Project Management, Strategic Planning, Teamwork
+    Leadership Experience: Yes
+    Extraprofessional Work: No
+    Analytical Skills: Yes
+    Communication Skills: No
+    Fit Score: High Fit
+
+Name: Jordan Jones
+    Gender: Female
+    Descent: American
+    Degree: Finance Degree
+    Job Title: Data Scientist at Goldman Sachs
+    Years of Experience: 6
+    Key Skills: Strategic Planning, Project Management, Financial Modeling, Data Analysis
+    Leadership Experience: Yes
+    Extraprofessional Work: Yes
+    Analytical Skills: No
+    Communication Skills: No
+    Fit Score: High Fit
