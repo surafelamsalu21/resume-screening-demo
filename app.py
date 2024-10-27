@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import joblib
+import joblib  # Replaced pickle with joblib for model loading
 from PyPDF2 import PdfReader  # Replaced fitz with PyPDF2 for PDF parsing
 
 # Load the saved model
